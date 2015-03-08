@@ -34,8 +34,8 @@ web site</a>:
 </ol>
 
 ## Plotting assignment
-See the attached png files plot<1,2,3,4>.png
-They can be reproduced by running plot<1,2,3,4>.R scripts assuming household_power_consumption.txt is in the working directory.
+See the attached png files plot\<1,2,3,4\>.png
+They can be reproduced by running plot\<1,2,3,4\>.R scripts assuming household_power_consumption.txt is in the working directory.
 
 
 
